@@ -1,0 +1,14 @@
+{
+  "name": "sprint_1",
+  "version": "1.0.0",
+  "description": "First Assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Christian Solihin",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.1.4"
+  }
+}
